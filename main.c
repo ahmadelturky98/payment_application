@@ -2,11 +2,11 @@
 
 int main()
 {
-	//appStart();
+	appStart();
 
 	//getCardHolderNameTest();
 	//getCardExpiryDateTest();
-	getCardPANTest();
+	//getCardPANTest();
 	
 	//getTransactionDateTest();
 	//getTransactionAmountTest();
